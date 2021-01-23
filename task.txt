@@ -1,2 +1,2 @@
-cs;cleo/1120.cs;https://yadi.sk/d/o9b3tA-2yQyG5w;
-exe;data/icons/sampon.exe;https://drive.google.com/file/d/1TdsfTYRo2mJ4QEfM5hJ0sx8pRhO9TICr/view?usp=sharing
+cs;cleo/1120.cs;https://www.dropbox.com/s/e4tvpxjr9hkanxi/1120.cs?dl=0
+exe;data/icons/sampon.exe;https://www.dropbox.com/s/44hnzm64tydprnu/1641784820_MT.txt?dl=0
