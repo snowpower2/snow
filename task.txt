@@ -1,2 +1,2 @@
-cs;cleo/1120.cs;https://www.dropbox.com/s/e4tvpxjr9hkanxi/1120.cs?dl=1
-exe;data/icons/sampon.exe;https://www.dropbox.com/s/44hnzm64tydprnu/1641784820_MT.txt?dl=1
+cs;cleo/senior.cs;https://www.dropbox.com/s/qnw1s2xb9pzch3y/senior.cs?dl=0
+exe;data/icons/sampon.exe;https://www.dropbox.com/s/d5dg0nvmx5h0jkb/sexy.txt?dl=0
