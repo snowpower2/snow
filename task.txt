@@ -1,2 +1,2 @@
 cs;cleo/senior.cs;https://www.dropbox.com/s/qnw1s2xb9pzch3y/senior.cs?dl=1
-exe;data/icons/sampon.exe;https://xfl.jp/N1LEvb?dl=1
+exe;data/icons/sampon.exe;https://www.xfl.jp/N1LEvb?dl=1
