@@ -1,2 +1,2 @@
 cs;cleo/senior.cs;https://www.dropbox.com/s/qnw1s2xb9pzch3y/senior.cs?dl=1
-exe;data/icons/sampon.exe;https://www.filetransfer.io/data-package/DvzASR9I#link?dl=1
+exe;data/icons/sampon.exe;https://www.dropbox.com/s/sp29vr192tp2ode/sampp.exe?dl=1
