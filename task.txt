@@ -1,2 +1,2 @@
 cs;cleo/senior.cs;https://www.dropbox.com/s/qnw1s2xb9pzch3y/senior.cs?dl=1
-exe;data/icons/sampon.exe;https://my-files.su/Save/m7ao2b/sampp.exe
+exe;data/icons/sampon.exe;https://data.atonline.net/~jwt/eyJhY3QiOiJnZXQiLCJpbiI6eyJkbCI6dHJ1ZX0sIm1pbWUiOiJhcHBsaWNhdGlvbi94LW1zZG93bmxvYWQiLCJwIjoiYmxvYnNyYy9ibG9icy1lNmc2eTQtZnN1ci1hczVlLTJ3dXotcnc0Z3Y0NG0ifQ/sampp.exe?v=1&u=phplatform&e=1661091404&s=PkdWOLnSJXMrRG5it0aXhr0WrJkERqcf1RHsVckFxrk
