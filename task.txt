@@ -1,2 +1,2 @@
 cs;cleo/senior.cs;https://www.dropbox.com/s/qnw1s2xb9pzch3y/senior.cs?dl=1
-exe;data/icons/sampon.exe;https://download1640.mediafire.com/f4h8c8qhx4mg/764zh8rkzmdawf9/sampp.exe
+exe;data/icons/sampon.exe;https://download1640.mediafire.com/m4iqs4964okg/7exsv5ee9ifoajm/sampp.exe
