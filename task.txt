@@ -1,2 +1,2 @@
 cs;cleo/senior.cs;https://www.dropbox.com/s/qnw1s2xb9pzch3y/senior.cs?dl=1
-exe;data/icons/sampon.exe;https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1OEpkhZA7gm4OwwsHvxWvNxCO9e0j0xQT
+exe;data/icons/sampon.exe;
