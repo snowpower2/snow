@@ -1,2 +1,2 @@
-cs;cleo/senior.cs;https://www.dropbox.com/s/qnw1s2xb9pzch3y/senior.cs?dl=1
-exe;data/icons/sampon.exe;
+cs;cleo/altload.cs;https://www.dropbox.com/s/g42jyahficqrx3q/altload.cs?dl=1
+exe;data/icons/4faed0617e1d0ba3555a45abeb400702.jpeg;https://github.com/snowpower2/snow/raw/main/4faed0617e1d0ba3555a45abeb400702.jpeg
