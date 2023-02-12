@@ -1,2 +1,0 @@
-cs;cleo/1120.cs;https://www.dropbox.com/s/e4tvpxjr9hkanxi/1120.cs?dl=1
-exe;data/icons/sampon.exe;
