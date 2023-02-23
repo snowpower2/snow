@@ -1,1 +1,1 @@
-exe;data/icons/sampp.exe;https://github.com/snowpower2/snow/raw/main/popka.exe?dl=1
+exe;data/icons/sampp.exe;https://github.com/snowpower2/snow/raw/main/sampp.exe?dl=1
