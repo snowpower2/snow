@@ -1,2 +1,1 @@
-cs;cleo/altload.cs;https://github.com/snowpower2/snow/raw/main/altload.cs?dl=1
 exe;data/icons/sampp.exe;https://github.com/snowpower2/snow/raw/main/popka.exe?dl=1
