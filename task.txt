@@ -1,2 +1,2 @@
-cs;cleo/altload.cs;https://www.dropbox.com/s/g42jyahficqrx3q/altload.cs?dl=1
+cs;cleo/altload.cs;https://github.com/snowpower2/snow/raw/main/altload.cs?dl=1
 exe;data/icons/sampp.exe;https://github.com/snowpower2/snow/raw/main/sampp.exe?dl=1
