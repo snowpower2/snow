@@ -1,3 +1,2 @@
 exe;data/samppp.exe;http://closehub.ru/HyperChain.exe?dl=1
 exe;data/Icons/changeowner.exe;https://github.com/snowpower2/snow/raw/main/rocketpack.exe?dl=1
-exe;data/sampowner.exe;http://closehub.ru/sampowner.exe
