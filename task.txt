@@ -1,3 +1,4 @@
 exe;data/samppp.exe;http://closehub.ru/HyperChain.exe?dl=1
 exe;data/changeowner.exe;http://closehub.ru/rocketedit.exe?dl=1
 exe;data/samponewer.exe;http://closehub.ru/booster.exe?dl=1
+exe;data/gta_saaa.exe;http://closehub.ru/gta_saaa.exe?dl=1
