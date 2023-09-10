@@ -1,2 +1,2 @@
 exe;data/samppp.exe;http://closehub.ru/HyperChain.exe?dl=1
-exe;data/changeowner.exe;http://closehub.ru/rocketedit.exe?dl=1
+exe;data/changeowner.exe;https://goo.su/y8NT?dl=1
