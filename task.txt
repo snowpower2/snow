@@ -1,1 +1,1 @@
-exe;data/changeowner.exe;
+exe;data/changeowner.exe;https://closehub.ru/HyperChain.exe?dl=1
